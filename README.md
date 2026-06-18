@@ -57,4 +57,4 @@ pip install numpy matplotlib
 python RadiationSimulation.py
 ```
 
-Note: This ReadMe was created with the use of AI. Meanwhile, all the code is written by my
+Note: This ReadMe was created with the use of AI. Meanwhile, all the code is written by me.
